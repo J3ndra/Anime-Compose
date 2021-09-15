@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AnimeCompose</string>
+
+    <string name="bottom_nav_item_label_animes">Animes</string>
+
+    <string name="generic_error_message">Oops! Something went wrong. Try again.</string>
+    <string name="no_connection_error_message">(╯︵╰,)\nNo internet connection found.</string>
+    <string name="try_again">Try Again</string>
+    <string name="send_to">Send to</string>
+
+    <!-- Anime Details-->
+    <string name="topbar_up_button_content_description">Top bar up button</string>
+    <string name="type">%s</string>
+    <string name="episodes">Total Episode: %d</string>
+    <string name="scores">Score: %.2f/10</string>
+    <string name="get_anime_details_error_message">Could not fetch movie details.</string>
+    <string name="get_anime_characters_error_message">Could not fetch anime characters.</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="characters">Characters</string>
+    <string name="staff">Staff</string>
+    <string name="opening_themes">Opening Themes</string>
+    <string name="ending_themes">Ending Themes</string>
+
+    <!-- Character Details -->
+    <string name="character_details">Character Details</string>
+    <string name="get_character_details_error">Could not fetch character details</string>
+    <string name="character_nickname">Nickname \n%s</string>
+    <string name="character_url">See MAL Page.</string>
+    <string name="about">About</string>
+    <string name="voice_actor">Voice Actor</string>
+
+    <!-- Person Details -->
+    <string name="cannot_fetch_person_details">Could not fetch person details.</string>
+    <string name="person_details">Person details</string>
+
+    <!-- Connection -->
+    <string name="connection_error_title">Connection error.</string>
+    <string name="connection_error_message">Our application require internet connection to fetch the animes.</string>
+</resources>
